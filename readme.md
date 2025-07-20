@@ -4,13 +4,6 @@ Here, at the beginning of your programmer’s path, creating a simple console ch
 through the basics of coding. During this journey you will also play some word and number games that you are going to
 implement all on your own. Pack up and let’s hit the road, my friend!
 
----
-
-## What you'll learn
-
-Once you choose a project, we'll provide you with a study plan that includes all the necessary topics from your course
-to get it built. Here’s what awaits you:
-
 ### ▶️ Stage 1/5: Chatty Bot welcomes you
 
 Teach your assistant to introduce itself in the console.
